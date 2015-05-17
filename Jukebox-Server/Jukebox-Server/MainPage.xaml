@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="Jukebox_Server.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Jukebox_Server"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Loaded="Grid_Loaded">
+        <ListView x:Name="Artist" HorizontalAlignment="Left" Height="312" Margin="46,184,0,0" VerticalAlignment="Top" Width="352"/>
+        <ListView x:Name="Album" HorizontalAlignment="Left" Height="312" Margin="403,184,0,0" VerticalAlignment="Top" Width="352"/>
+        <ListView x:Name="Song" HorizontalAlignment="Left" Height="312" Margin="760,184,0,0" VerticalAlignment="Top" Width="352"/>
+
+    </Grid>
+</Page>

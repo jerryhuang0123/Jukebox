@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="JukeBox.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:JukeBox"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Aquamarine">
+        <RelativePanel Width="360"  HorizontalAlignment="Center">
+            <Button HorizontalAlignment="Center" VerticalAlignment="Center" Height="180" Width="285" Margin="23,157,42,303" >
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Source="Assets/cloud-music-1.png"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <TextBox x:ConnectionId='1' x:Name="userName" HorizontalAlignment="Center" Margin="23,421,0,0" TextWrapping="Wrap" PlaceholderText="Enter Your Name: " VerticalAlignment="Center" Width="327" Height="28"/>
+            <Button x:ConnectionId='2' x:Name="userNameSubmit"                         Content="Submit" HorizontalAlignment="Center" VerticalAlignment="Center" Width="84" Height="38" Margin="128,486,148,-486" />
+        </RelativePanel>
+
+
+    </Grid>
+</Page>
+

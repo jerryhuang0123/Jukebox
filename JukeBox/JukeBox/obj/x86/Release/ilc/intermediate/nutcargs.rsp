@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\jerry\Documents\Visual Studio 2015\Projects\JukeBox\JukeBox\obj\x86\Release\ilc\intermediate\ILTransformed\JukeBox.metadata"
+/reflectionMetadataAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\jerry\Documents\Visual Studio 2015\Projects\JukeBox\JukeBox\obj\x86\Release\ilc\intermediate\ILTransformed\JukeBox.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\jerry\Documents\Visual Studio 2015\Projects\JukeBox\JukeBox\obj\x86\Release\ilc\intermediate\ILTransformed\JukeBox.ilexe"
+/out "C:\Users\jerry\Documents\Visual Studio 2015\Projects\JukeBox\JukeBox\obj\x86\Release\ilc\intermediate\MDIL\JukeBox.mdilexe"

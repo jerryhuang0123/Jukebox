@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Package
+  xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
+  xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest"
+  xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
+  IgnorableNamespaces="uap mp">
+
+  <Identity
+    Name="673795ab-0d66-41b7-8b8a-3ed2cf7c2ace"
+    Publisher="CN=jerry"
+    Version="1.0.0.0" />
+
+  <mp:PhoneIdentity PhoneProductId="673795ab-0d66-41b7-8b8a-3ed2cf7c2ace" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+
+  <Properties>
+    <DisplayName>JukeBox</DisplayName>
+    <PublisherDisplayName>jerry</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.10069.0" MaxVersionTested="10.0.10069.0" />
+  </Dependencies>
+
+  <Resources>
+    <Resource Language="x-generate"/>
+  </Resources>
+
+  <Applications>
+    <Application Id="App"
+      Executable="$targetnametoken$.exe"
+      EntryPoint="JukeBox.App">
+      <uap:VisualElements
+        DisplayName="JukeBox"
+        Square150x150Logo="Assets\cloud-music-1-128x128.png"
+        Square44x44Logo="Assets\cloud-music-1-64x64.png"
+        Description="JukeBox"
+        BackgroundColor="#464646">
+        <uap:SplashScreen Image="Assets\SplashScreen.png" />
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

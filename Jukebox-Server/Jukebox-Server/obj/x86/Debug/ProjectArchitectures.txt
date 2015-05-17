@@ -1,0 +1,1 @@
+c:\users\test\documents\visual studio 2015\Projects\Jukebox-Server\Jukebox-Server\Jukebox-Server.csproj;x86

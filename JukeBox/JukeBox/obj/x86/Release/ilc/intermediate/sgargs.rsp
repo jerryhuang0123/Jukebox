@@ -1,0 +1,10 @@
+/out:"C:\Users\jerry\Documents\Visual Studio 2015\Projects\JukeBox\JukeBox\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\jerry\Documents\Visual Studio 2015\Projects\JukeBox\JukeBox\obj\x86\Release\ilc\intermediate\\"
+/ref:"C:\Users\jerry\Documents\Visual Studio 2015\Projects\JukeBox\JukeBox\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"C:\Users\jerry\Documents\Visual Studio 2015\Projects\JukeBox\JukeBox\obj\x86\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x86\ilc\lib\Facades\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x86\ilc\lib\IL\\"
+/ref:"C:\Users\jerry\Documents\Visual Studio 2015\Projects\JukeBox\JukeBox\obj\x86\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
+/mscorlib:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x86\ilc\lib\Facades\mscorlib.dll"
+"@C:\Users\jerry\Documents\Visual Studio 2015\Projects\JukeBox\JukeBox\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\ComputedSerializationInput.txt"

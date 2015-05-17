@@ -1,0 +1,9 @@
+c:\users\test\documents\visual studio 2015\Projects\Jukebox-Server\Crawler\bin\Debug\Crawler.exe.config
+c:\users\test\documents\visual studio 2015\Projects\Jukebox-Server\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2015\Projects\Jukebox-Server\Crawler\bin\Debug\Crawler.exe
+c:\users\test\documents\visual studio 2015\Projects\Jukebox-Server\Crawler\bin\Debug\Crawler.pdb
+c:\users\test\documents\visual studio 2015\Projects\Jukebox-Server\Crawler\bin\Debug\policy.2.0.taglib-sharp.dll
+c:\users\test\documents\visual studio 2015\Projects\Jukebox-Server\Crawler\bin\Debug\taglib-sharp.dll
+c:\users\test\documents\visual studio 2015\Projects\Jukebox-Server\Crawler\bin\Debug\policy.2.0.taglib-sharp.config
+c:\users\test\documents\visual studio 2015\Projects\Jukebox-Server\Crawler\obj\Debug\Crawler.exe
+c:\users\test\documents\visual studio 2015\Projects\Jukebox-Server\Crawler\obj\Debug\Crawler.pdb

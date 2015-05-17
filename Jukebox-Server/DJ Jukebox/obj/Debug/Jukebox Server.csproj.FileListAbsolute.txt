@@ -1,0 +1,27 @@
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\DJ Jukebox.exe.config
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\DJ Jukebox.exe
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\DJ Jukebox.pdb
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\NAudio.dll
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\NAudio.xml
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\Newtonsoft.Json.xml
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\obj\Debug\Jukebox Server.csproj.App.config
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\obj\Debug\MainWindow.g.cs
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\obj\Debug\App.g.cs
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\obj\Debug\DJ Jukebox_MarkupCompile.cache
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\obj\Debug\DJ Jukebox_MarkupCompile.lref
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\obj\Debug\MainWindow.baml
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\obj\Debug\DJ Jukebox.g.resources
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\obj\Debug\DJ_Jukebox.Properties.Resources.resources
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\obj\Debug\Jukebox Server.csproj.GenerateResource.Cache
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\obj\Debug\DJ Jukebox.exe
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\obj\Debug\DJ Jukebox.pdb
+C:\Users\test\Documents\Visual Studio 2015\Projects\Jukebox-Server\DJ Jukebox\obj\Debug\Jukebox Server.csprojResolveAssemblyReference.cache

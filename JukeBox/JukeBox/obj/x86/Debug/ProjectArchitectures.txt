@@ -1,0 +1,1 @@
+C:\Users\jerry\Documents\Visual Studio 2015\Projects\JukeBox\JukeBox\JukeBox.csproj;x86
